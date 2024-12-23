@@ -10,7 +10,7 @@ paper = "1.21-R0.1-SNAPSHOT"
 
 configurate = { group = "org.spongepowered", name = "configurate-hocon", version.ref = "configurate" }
 paper = { group = "io.papermc.paper", name = "paper-api", version.ref = "paper" }
-adventure-serializer = { group = "net.kyori", name = "adventure-serializer-configurate4", version = "4.17.0"}
+adventure-serializer = { group = "net.kyori", name = "adventure-serializer-configurate4", version = "4.18.0"}
 
 [plugins]
 
